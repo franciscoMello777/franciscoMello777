@@ -10,4 +10,4 @@
 - 📫 How to reach me: (franciscopesdemello@gmail.com)
 - 😄 Pronouns: He, him
 - ⚡ Languagens I program: ( Java | TypeScript | JavaScript | SQL )
-<img height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
+<img height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
