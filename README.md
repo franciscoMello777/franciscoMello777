@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ( Java | SQL )
 - 👯 I’m looking to collaborate on ( Now nothing )
 - 🤔 I’m looking for help with ( Now nothing )
-- 💬 Ask me about ( 2 place HACKATHON Tech + Saúde )
+- 💬 Ask me about ( 2° 🥈 HACKATHON Tech + Saúde )
 - 📫 How to reach me: (franciscopesdemello@gmail.com)
 - 😄 Pronouns: He, him
 - ⚡ Languagens I program: ( Java | TypeScript | JavaScript | SQL )
